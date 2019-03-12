@@ -2,3 +2,28 @@ Author: João Paulo <digitalwbrasil@gmail.com>
 Date:   Tue Mar 12 15:53:55 2019 -0300
 
     Criando novo arquivo Status.txt
+$ git log
+commit c2b0c9f830ff5cddbd2bcf29d4289197c14d87ac
+Author: João Paulo <digitalwbrasil@gmail.com>
+Date:   Tue Mar 12 16:03:38 2019 -0300
+
+    Inserindo Conteudo do Status
+
+commit e472ee8e64cc6770ef9585405ae35c9ebcbfc6ad
+Author: João Paulo <digitalwbrasil@gmail.com>
+Date:   Tue Mar 12 15:58:56 2019 -0300
+
+    Criando novo aqrquivo logs.txt
+
+commit a2f568174cb464d644c4b4b2f366470649213a37
+Author: João Paulo <digitalwbrasil@gmail.com>
+Date:   Tue Mar 12 15:55:11 2019 -0300
+
+    Modificando o arquivo Status.txt
+
+commit fab83ce2c2b957bd2da7b8ed58529c6d57a341db
+Author: João Paulo <digitalwbrasil@gmail.com>
+Date:   Tue Mar 12 15:53:55 2019 -0300
+
+    Criando novo arquivo Status.txt
+
