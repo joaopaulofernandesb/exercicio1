@@ -1,0 +1,4 @@
+Author: João Paulo <digitalwbrasil@gmail.com>
+Date:   Tue Mar 12 15:53:55 2019 -0300
+
+    Criando novo arquivo Status.txt
