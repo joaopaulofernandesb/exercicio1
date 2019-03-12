@@ -1,8 +1,16 @@
-Author: João Paulo <digitalwbrasil@gmail.com>
-Date:   Tue Mar 12 15:53:55 2019 -0300
-
-    Criando novo arquivo Status.txt
 $ git log
+commit 316a544664b878d13869d950895ff74b14381c55
+Author: joaopaulofernandesb <48491035+joaopaulofernandesb@users.noreply.github.com>
+Date:   Tue Mar 12 16:49:41 2019 -0300
+
+    Create README.md
+
+commit 5361a314b3ebf6f631b999704057cc85c0428b2b
+Author: João Paulo <digitalwbrasil@gmail.com>
+Date:   Tue Mar 12 16:05:11 2019 -0300
+
+    Inserindo Conteudo no logs.txt
+
 commit c2b0c9f830ff5cddbd2bcf29d4289197c14d87ac
 Author: João Paulo <digitalwbrasil@gmail.com>
 Date:   Tue Mar 12 16:03:38 2019 -0300
@@ -26,4 +34,3 @@ Author: João Paulo <digitalwbrasil@gmail.com>
 Date:   Tue Mar 12 15:53:55 2019 -0300
 
     Criando novo arquivo Status.txt
-
